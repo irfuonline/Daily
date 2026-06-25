@@ -1,0 +1,6 @@
+{
+  "name": "Daily Trade Tracker",
+  "description": "Calculate and track daily morning/night sales, card payments, and generate monthly statements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
